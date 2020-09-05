@@ -1,4 +1,4 @@
-### Hi there, I'm Santosh 👋
+### Hello, I'm Santosh 👋
 
 #### I'm an App Developer, Full-Stack Developer and currently working as Engineer, Solutions Engineering @ Macrokiosk.
 - 🔭 I’m currently working on a TV app which will host SMB, PLEX and IPTV together.

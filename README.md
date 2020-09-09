@@ -2,7 +2,7 @@
 
 #### I'm an App Developer, Full-Stack Developer and currently working as Engineer, Solutions Engineering @ Macrokiosk.
 - 🔭 I’m currently working on a TV app which will host SMB, PLEX and IPTV together.
-- 🌱 I’m currently improving on React Native as well. 🧐
+- 🌱 I’m currently improving on React Native and Flutter as well. 🧐
 - 🏢 I’m also looking for a new job. <a href="https://github.com/elSantosh/elSantosh/raw/master/Santosh-Resume2020-iOS-pdf.pdf">Download RESUMÉ</a>
 - 🥅 2020 Goals: Contributing more to Open Source projects.
 

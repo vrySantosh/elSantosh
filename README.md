@@ -1,8 +1,8 @@
 ### Hello, I'm Santosh 👋
 
 #### I'm an App Developer, Full-Stack Developer and currently working as Engineer, Solutions Engineering @ Macrokiosk.
-- 🔭 I’m currently working on a TV app which will host SMB, PLEX and IPTV together.
-- 🌱 I’m currently improving on React Native and Flutter as well. 🧐
+
+- 🌱 I’m currently improving on React Native and Flutter. 🧐
 - 🥅 2020 Goals: Contributing more to Open Source projects.
 
 #### Connect with me:

@@ -2,7 +2,7 @@
 
 #### I'm an App Developer, Full-Stack Developer and currently working as Engineer, Solutions Engineering @ Macrokiosk.
 
-- 🌱 I’m currently improving on React Native and Flutter. 🧐
+- 🌱 I’m currently improving on SwiftUI, React Native and Flutter. 🧐
 - 🥅 2020 Goals: Contributing more to Open Source projects.
 
 #### Connect with me:

@@ -1,6 +1,6 @@
 ### Hello, I'm Santosh 👋
 
-#### I'm an App Developer, Full-Stack Developer and currently working as Engineer, Solutions Engineering @ Macrokiosk.
+#### I'm an App Developer, Full-Stack Developer and currently working as Senior iOS Developr @ UOB
 
 - 🌱 I’m currently improving on SwiftUI, React Native and Flutter. 🧐
 - 🥅 2020 Goals: Contributing more to Open Source projects.

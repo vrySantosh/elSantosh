@@ -1,8 +1,7 @@
 ### Hello, I'm Santosh 👋
 
-#### I'm an App Developer, Full-Stack Developer and currently working as Senior iOS Developr @ UOB
-
-- 🌱 I’m currently improving on SwiftUI, React Native and Flutter. 🧐
+#### I'm an App Developer and also Full-Stack Developer.
+- 🌱 SwiftUI is Love.
 - 🥅 2021 Goals: Contributing more to Open Source projects.
 
 #### Connect with me:

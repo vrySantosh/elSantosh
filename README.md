@@ -1,5 +1,4 @@
 ### Hello, I'm Santosh 👋
-[Pearson VUE - You are booked!.pdf](https://github.com/elSantosh/elSantosh/files/7203848/Pearson.VUE.-.You.are.booked.pdf)
 
 #### I'm an App Developer and also Full-Stack Developer.
 - 🌱 SwiftUI is Love.
